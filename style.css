@@ -12,11 +12,12 @@ body {
 .nav-links {
     display: flex;
     align-items: center;
+    justify-content: right;
 }
 
 .nav-links li {
     display: flex;
-    padding-right: 37px;
+    padding-right: 25px;
     /* justify-self: space-between; */
 }
 
